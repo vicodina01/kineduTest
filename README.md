@@ -3,7 +3,7 @@
 
 # Milestones
 
-This is a challenge for the Frontend application in Bitso, the goal of the challenge is create "The Milestones" section in the Kinedu Web app to shows a list of milestones a baby can, or cannot, complete for a particular skill. Parents update the list whenever their baby is able to complete some, or all of them. All skills belong to a certain developmental area (Physical, Cognitive, Linguistic, Social & Emotional).
+This is a challenge for the Frontend application at Kinedu, the goal of the challenge is create "The Milestones" section in the Kinedu Web app to shows a list of milestones a baby can, or cannot, complete for a particular skill. Parents update the list whenever their baby is able to complete some, or all of them. All skills belong to a certain developmental area (Physical, Cognitive, Linguistic, Social & Emotional).
 
 For this assignment you will be in charge of creating a React application which allows parents to answer these milestones. You should: 
 ● Display the list of milestones, separated by area.
